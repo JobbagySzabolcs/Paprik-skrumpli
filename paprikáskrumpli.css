@@ -1,0 +1,41 @@
+body
+{
+    background: blue;;
+    font-family:'Courier New';
+}
+
+div
+{
+    padding:10px;
+    background-color: white;
+    width:800px;
+    border: 10px solid gray;
+    margin:auto;
+    border-radius: 30px;
+    border-style:groove;
+    border-color: black;
+    text-align:center;
+}
+
+p
+{
+    text-aligm:justify;
+}
+
+
+h1, h2
+{
+    color:rgb(0,30,100);
+    text-aligm: center;
+}
+
+img
+{
+    float:right;
+    width:370px;
+}
+
+li
+{
+    color:rgb(70,110,200)
+}
